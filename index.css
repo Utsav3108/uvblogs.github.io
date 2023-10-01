@@ -22,7 +22,7 @@
 .nav-item{
     /* float:left; */
     /* display: block; */
-    color: rgb(34, 189, 41);
+    color: rgb(255, 255, 255);
     /* text-align: center; */
     padding: 14px 16px;
     /* text-decoration: none; */
@@ -50,7 +50,7 @@
 }
 
 .date{
-    margin-left:83.7%;
+    margin-left:83%;
 }
 
 .blog-content{
