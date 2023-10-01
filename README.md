@@ -1,3 +1,3 @@
 # UVPAGES
 
-<p>It Pages written by Utsav Pandya</p>
+<p>It is pages written by Utsav Pandya</p>

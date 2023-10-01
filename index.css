@@ -1,0 +1,78 @@
+.blog-body{
+    margin-left:400px;
+    margin-right:400px;
+    margin-top: 100px;
+    text-align: justify;
+}
+
+.title{
+    font-size: 80px;
+    font-family:'Times New Roman', Times, serif;
+    justify-content: center;
+    display: flex;
+}
+
+.nav{
+    list-style-type: none;
+    margin: 0;
+   padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.nav-item{
+    float:left;
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.nav-item:hover{
+    background-color: #111;
+}
+
+
+.blog-title{
+    font-family: Lucida Handwriting;
+    margin-bottom: 30px;
+}
+
+.main-title{
+    text-align: center;
+    font-size: 60px;
+}
+
+.writer{
+    float:left;
+    margin-top: 0px;
+}
+
+.date{
+    margin-left:60rem;
+}
+
+.blog-content{
+   /* font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+   font-size: 25px;
+   /* font-family: 'Poppins', sans-serif; */ 
+font-family: 'Roboto Slab', serif;
+font-weight: 100;
+/* font-family: 'Young Serif', serif;  */
+
+}
+
+.main-content{
+    text-align: justify;
+}
+
+.footer{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
